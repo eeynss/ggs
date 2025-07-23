@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eeynss/ggs/refs/heads/main/EggReroll"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eeynss/MutateReroll/refs/heads/main/PetMutationFinder"))()
